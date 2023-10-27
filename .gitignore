@@ -1,0 +1,4 @@
+target/
+target/classes/org/lequochai/web3j/App.class
+target/test-classes/org/lequochai/web3j/AppTest.class
+*.class
