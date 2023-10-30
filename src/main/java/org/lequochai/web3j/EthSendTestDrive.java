@@ -20,7 +20,7 @@ import org.web3j.utils.Convert.Unit;
  * Hello world!
  *
  */
-public class App 
+public class EthSendTestDrive 
 {
     public static void main( String[] args ) throws IOException
     {
